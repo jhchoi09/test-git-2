@@ -1,2 +1,2 @@
-Janghoon Choi 1234567
+Janghoon Choi 2021276
 Kookmin Univ. AI
