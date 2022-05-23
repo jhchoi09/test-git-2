@@ -1,2 +1,2 @@
-Janghoon Choi 2021276 900912
+Janghoon Choi 2021276
 Kookmin Univ. AI
